@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: perchè da qualche parte si deve pur cominciare...
-datePublished: '2015-10-14T14:00:16.775Z'
-dateModified: '2015-10-14T13:59:51.787Z'
+datePublished: '2015-10-14T14:01:29.777Z'
+dateModified: '2015-10-14T14:01:22.450Z'
 title: Il primo post
 authors: []
 publisher:
