@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MarcoLoguercio]]></title>
-        <description><![CDATA[MarcoLoguercio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Marco Loguercio]]></title>
+        <description><![CDATA[Marco Loguercio]]></description>
+        <link>https://thegrid.ai/marcologuercio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 20:02:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 14 Oct 2015 13:35:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcologuercio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marco Loguercio]]></title>
+            <description><![CDATA[<article><h1>Marco Loguercio</h1><p>Marco Loguercio's official website</p></article>]]></description>
+            <link>https://thegrid.ai/marcologuercio/marco-loguercio/index.html</link>
+            <guid isPermaLink="false">b396c9f5-fce3-49d2-8a58-6961af01efc8</guid>
+            <pubDate>Wed, 14 Oct 2015 13:34:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<h1>About</h1>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/marcologuercio/about/index.html</link>
             <guid isPermaLink="false">580fdc33-4752-4c41-b8fe-79fb2ccea492</guid>
             <pubDate>Tue, 13 Oct 2015 20:01:21 GMT</pubDate>
         </item>
