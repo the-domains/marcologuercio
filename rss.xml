@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Marco Loguercio]]></title>
-        <description><![CDATA[Marco Loguercio]]></description>
+        <title><![CDATA[Marco Loguercio, consulente in Search Marketing]]></title>
+        <description><![CDATA[Marco Loguercio, consulente in Search Marketing]]></description>
         <link>https://thegrid.ai/marcologuercio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 14:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 04:56:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marcologuercio/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Il primo post]]></title>
-            <description><![CDATA[<article><h1>Il primo post</h1><p>Sono proprio curioso di vedere come funziona questo editor e quanto sia realmente intelligente.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20317ae8-bd36-4ac7-b5f7-e51f18cbeef6.JPG"></article>]]></description>
-            <link>https://thegrid.ai/marcologuercio/il-primo-post/index.html</link>
-            <guid isPermaLink="false">be8c49e0-80b1-43bb-b25d-e5665378323b</guid>
-            <pubDate>Wed, 14 Oct 2015 14:01:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Marco Loguercio]]></title>
             <description><![CDATA[<article><h1>Marco Loguercio</h1><p>Marco Loguercio's official website</p></article>]]></description>
             <link>https://thegrid.ai/marcologuercio/marco-loguercio/index.html</link>
             <guid isPermaLink="false">b396c9f5-fce3-49d2-8a58-6961af01efc8</guid>
             <pubDate>Wed, 14 Oct 2015 13:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chi è Marco Loguercio]]></title>
+            <description><![CDATA[<h1>Chi è Marco Loguercio</h1>]]></description>
+            <link>https://thegrid.ai/marcologuercio/chi-e-marco-loguercio/index.html</link>
+            <guid isPermaLink="false">045925fe-67c0-4d64-88b4-d5fbcfa42ef5</guid>
+            <pubDate>Sat, 24 Oct 2015 04:56:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About]]></title>
