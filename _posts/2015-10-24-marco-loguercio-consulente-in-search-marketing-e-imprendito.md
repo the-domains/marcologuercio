@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Il sito di Marco Loguercio, autorevole esperto di search marketing, consulente per lo sviluppo di strategie di marketing digitale orientate alla performance.'
-datePublished: '2015-10-24T04:40:33.136Z'
-dateModified: '2015-10-24T04:40:15.910Z'
+datePublished: '2015-10-24T04:42:50.505Z'
+dateModified: '2015-10-24T04:42:44.385Z'
 title: 'Marco Loguercio, consulente in Search Marketing e imprenditore'
 authors: []
 publisher:
